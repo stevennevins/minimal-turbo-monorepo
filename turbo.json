@@ -4,6 +4,9 @@
     "build": {
       "outputs": []
     },
+    "test": {
+      "dependsOn": ["build"]
+    },
     "lint": {},
     "type-check": {}
   }
