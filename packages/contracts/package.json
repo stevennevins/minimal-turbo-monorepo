@@ -2,7 +2,7 @@
   "name": "contracts",
   "version": "1.0.0",
   "scripts": {
-    "build": "forge build",
+    "build": "forge build --force --skip test script",
     "test": "forge test"
   }
 }

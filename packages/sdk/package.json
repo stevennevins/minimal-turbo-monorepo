@@ -1,0 +1,14 @@
+{
+  "name": "sdk",
+  "version": "1.0.0",
+  "main": "dist/generated.ts",
+  "devDependencies": {
+    "@wagmi/cli": "^1.5.2",
+    "typescript": "^5.4.5"
+  },
+  "scripts": {
+    "build": "",
+    "test": "",
+    "generate-sdk": "wagmi generate"
+  }
+}
